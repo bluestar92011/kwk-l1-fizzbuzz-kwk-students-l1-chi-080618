@@ -1,3 +1,10 @@
+def fizzbuzz(x)
+ if x % 3 == 0 
+   puts "fizz"
+  
+  
+  
+  
+end 
 
-
-number = chomp
+fizzbuzz(6)
